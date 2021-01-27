@@ -84,7 +84,7 @@ var someString = ""
 var anotherString: String
 
 
-var stringNumber = "123"
+var stringNumber = "123a"
 var convertToInt = Int(stringNumber)
 
 print(convertToInt ?? "")
